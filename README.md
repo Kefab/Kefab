@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kevin Salazar</h1>
 <h3 align="center">A full stack developer</h3>
 
-<h3 align="center"><img src="https://imagine.gsfc.nasa.gov/hst_bday/images/june-17-2019-stephan-s-quintet.jpg" width="250"></h3>
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
